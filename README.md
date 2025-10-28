@@ -1,4 +1,4 @@
-# Container Management for Resource-Constrained IoT Devices
+# Container Management for Resource Constrained IoT Devices
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
