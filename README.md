@@ -28,7 +28,7 @@ This project addresses the challenge of efficient container orchestration in res
 - **Features**: CPU utilization, memory usage, network I/O, disk I/O, etc.
 - **Format**: CSV files with timestamped resource metrics
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 - Loaded and aggregated 1,750 VM traces
