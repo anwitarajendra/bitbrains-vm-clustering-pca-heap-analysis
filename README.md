@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Implementation of an efficient container management scheme using ensemble clustering algorithms and heap data structures for resource-constrained IoT environments.
 
